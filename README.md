@@ -11,7 +11,7 @@ For the team programmers follow these steps:
 6. Now you should be able to edit the code in the folder
 7. Once you're done with the coding open again your terminal
 8. Navigate up to our folder exactly as we did on point 3
-9. Type "git add ." 
+9. Type "git add ."                                                                                                         
 10.Then you need to add a commit to explain your work in that code session. Type " git commit -m "TEXTOFTHECOMMIT" "  
 11.Finally type "git pull "
 

@@ -11,11 +11,12 @@ For the team programmers follow these steps:
 6. Now you should be able to edit the code in the folder
 7. Once you're done with the coding open again your terminal
 8. Navigate up to our folder exactly as we did on point 3
-9. Type "git add ."
-10.Then you need to add a commit to explain your work in that code session. Type " git commit -m "TEXTOFTHECOMMIT" "
+9. Type "git add ." 
+10.Then you need to add a commit to explain your work in that code session. Type " git commit -m "TEXTOFTHECOMMIT" "  
 11.Finally type "git pull "
 
 !!!IMPORTANT!!!
+
 EVERY TIME YOU START A WORKING SESSION FOLLOW THE POINT 3 and type "git pull origin master": this command will update your local version of the repository so if another contributor had made changes, now you own the updated version
 
 
